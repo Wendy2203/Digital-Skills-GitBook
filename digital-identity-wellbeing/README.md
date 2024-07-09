@@ -12,3 +12,4 @@ Topics include:
  
 **Ethical digital data and information:** How to collect, evaluate and manage information in a digital landscape; learn how algorithms work; how personal data may be collected; and how digital media can be used as a social, political and educational tool. 
 
+Just exploring on how to make changes to this **PAGE**
